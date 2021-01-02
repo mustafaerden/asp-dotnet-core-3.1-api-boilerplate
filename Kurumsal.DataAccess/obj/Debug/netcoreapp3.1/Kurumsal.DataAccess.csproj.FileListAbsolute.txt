@@ -1,0 +1,17 @@
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.Core.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.Entities.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.csprojAssemblyReference.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.AssemblyInfoInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.AssemblyInfo.cs
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.deps.json
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.runtimeconfig.json
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.runtimeconfig.dev.json
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.Core.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\bin\Debug\netcoreapp3.1\Kurumsal.Entities.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.csproj.CoreCompileInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.csproj.CopyComplete
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.DataAccess\obj\Debug\netcoreapp3.1\Kurumsal.DataAccess.genruntimeconfig.cache

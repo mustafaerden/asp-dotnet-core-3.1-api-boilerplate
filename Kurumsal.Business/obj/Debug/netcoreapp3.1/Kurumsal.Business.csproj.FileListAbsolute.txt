@@ -1,0 +1,16 @@
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Business.deps.json
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Business.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Business.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Core.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Entities.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.DataAccess.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Entities.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\bin\Debug\netcoreapp3.1\Kurumsal.Core.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.csprojAssemblyReference.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.AssemblyInfoInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.AssemblyInfo.cs
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.csproj.CoreCompileInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.csproj.CopyComplete
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Business\obj\Debug\netcoreapp3.1\Kurumsal.Business.pdb

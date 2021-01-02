@@ -1,0 +1,9 @@
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\bin\Debug\netcoreapp3.1\Kurumsal.Core.deps.json
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\bin\Debug\netcoreapp3.1\Kurumsal.Core.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\bin\Debug\netcoreapp3.1\Kurumsal.Core.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\obj\Debug\netcoreapp3.1\Kurumsal.Core.csprojAssemblyReference.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\obj\Debug\netcoreapp3.1\Kurumsal.Core.AssemblyInfoInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\obj\Debug\netcoreapp3.1\Kurumsal.Core.AssemblyInfo.cs
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\obj\Debug\netcoreapp3.1\Kurumsal.Core.csproj.CoreCompileInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\obj\Debug\netcoreapp3.1\Kurumsal.Core.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Core\obj\Debug\netcoreapp3.1\Kurumsal.Core.pdb

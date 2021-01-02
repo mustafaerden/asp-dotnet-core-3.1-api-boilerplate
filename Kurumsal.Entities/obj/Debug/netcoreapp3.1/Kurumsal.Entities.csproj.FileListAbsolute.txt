@@ -1,0 +1,12 @@
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\bin\Debug\netcoreapp3.1\Kurumsal.Entities.deps.json
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\bin\Debug\netcoreapp3.1\Kurumsal.Entities.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\bin\Debug\netcoreapp3.1\Kurumsal.Entities.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\bin\Debug\netcoreapp3.1\Kurumsal.Core.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\bin\Debug\netcoreapp3.1\Kurumsal.Core.pdb
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.csprojAssemblyReference.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.AssemblyInfoInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.AssemblyInfo.cs
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.csproj.CoreCompileInputs.cache
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.csproj.CopyComplete
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.dll
+C:\AspNetCoreApps\Kurumsal\Kurumsal.Entities\obj\Debug\netcoreapp3.1\Kurumsal.Entities.pdb
