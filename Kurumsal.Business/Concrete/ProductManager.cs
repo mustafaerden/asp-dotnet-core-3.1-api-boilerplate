@@ -20,10 +20,14 @@ namespace Business.Concrete
     public class ProductManager : IProductService
     {
         private readonly IProductDal _productDal;
+        // Eger product harici tablolar ile burada bir islem yapilacaksa onu servis haline getirmeliyiz;
+        // Yani controllerdan calisir gibi service i cagiricaz;
+        private ICategoryService _categoryService;
 
-        public ProductManager(IProductDal productDal)
+        public ProductManager(IProductDal productDal, ICategoryService categoryService)
         {
             _productDal = productDal;
+            _categoryService = categoryService;
         }
 
         // Priority ile 1 ise once o calisir, 2, 3, 4 sirali calisir
@@ -38,6 +42,7 @@ namespace Business.Concrete
             // Bunun Calismasi Icin DependencyResolvers / Autofac / AutofacBusinessModule icinde tanimlamalar yaptik!
 
             // Mesela product name lerin uniqu olmasini istiyoruz. ayni product ismi ile bir urun daha eklenmemeli;
+            // IResult result = BusinessRules.Run(CheckIfProductExists(product.Name), CheckIfCategoryIsEnabled());
             IResult result = BusinessRules.Run(CheckIfProductExists(product.Name));
 
             //IResult result = CheckIfProductExists(product.Name);
@@ -52,16 +57,33 @@ namespace Business.Concrete
             return new SuccessResult(Messages.ProductCreatedMessage);
         }
 
+        #region #HelperMethods(Business Rules)
+
         private IResult CheckIfProductExists(string name)
         {
             var result = _productDal.GetList(p => p.Name == name).Any();
-            if(result)
+            if (result)
             {
                 return new ErrorResult(Messages.ProductAlReadyExistsMessage);
             }
 
             return new SuccessResult();
         }
+
+        private IResult CheckIfCategoryIsEnabled()
+        {
+            var result = _categoryService.GetList();
+            if (result.Data.Count < 10)
+            {
+                return new ErrorResult(Messages.CategoryCountNotEnough);
+            }
+
+            return new SuccessResult();
+        }
+
+        #endregion
+
+
 
         public IResult Delete(Product product)
         {

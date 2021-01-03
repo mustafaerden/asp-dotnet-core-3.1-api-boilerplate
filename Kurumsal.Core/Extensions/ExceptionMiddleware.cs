@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using FluentValidation;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Net;
 using System.Threading.Tasks;
@@ -33,10 +34,17 @@ namespace Kurumsal.Core.Extensions
             httpContext.Response.ContentType = "application/json";
             httpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
 
+            // Exception Fluent Validationdan geliyosa mesaji kullaniciya gostermekte bir sakinca yok;
+            string message = "Internal Server Error";
+            if(e.GetType() == typeof(ValidationException))
+            {
+                message = e.Message;
+            }
+
             return httpContext.Response.WriteAsync(new ErrorDetails
             {
                 StatusCode = httpContext.Response.StatusCode,
-                Message = "Internal Server Error"
+                Message = message
             }.ToString());
         }
     }

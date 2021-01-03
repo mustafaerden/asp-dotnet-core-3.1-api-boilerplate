@@ -10,6 +10,7 @@
         public static string CategoryCreatedMessage = "Category created successfully.";
         public static string CategoryUpdatedMessage = "Category updated successfully.";
         public static string CategoryDeletedMessage = "Category deleted successfully.";
+        public static string CategoryCountNotEnough = "There must be at least 10 categories to able to add a product.";
 
         public static string UserNotFoundMessage = "User not found.";
         public static string WrongPasswordMessage = "Password is incorrect";
